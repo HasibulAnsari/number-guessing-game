@@ -10,8 +10,10 @@ A simple and fun number guessing game built with HTML, CSS, and JavaScript.
 . Option to restart and play again
 . Clean and responsive user interface
 
-📸 Screenshot
-game.png
+## 📸 Screenshot
+
+![Number Guessing Game Screenshot](game.png)
+
 
 🧩 Demo
 👉 Live Demo:https://hasibulansari.github.io/number-guessing-game/
